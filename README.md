@@ -6,3 +6,7 @@ https://blp.hashtagtreinamentos.com/python/minicurso/criacao-sites-python
 
 
 curso excelente 
+
+
+
+pip install -r requirements.txt
